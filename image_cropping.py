@@ -3,6 +3,8 @@ import sys
 from PIL import Image
 from pathlib import Path
 
+'''trying something new for me to see'''
+
 class ScaleZip(ZipProcessor):
 
     def process_files(self):
@@ -16,4 +18,3 @@ if __name__ == "__main__":
     ScaleZip(*sys.argv[1:4]).process_zip()
 
 
-'''I am trying out something on github '''
