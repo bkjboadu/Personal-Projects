@@ -14,3 +14,4 @@ class ScaleZip(ZipProcessor):
 
 if __name__ == "__main__":
     ScaleZip(*sys.argv[1:4]).process_zip()
+
