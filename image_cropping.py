@@ -3,7 +3,12 @@ import sys
 from PIL import Image
 from pathlib import Path
 
-'''trying something new for me to see'''
+'''trying something new for me to see
+more comments to verify how things work on github
+we will work on all these now 
+Thank you lord for the position i am in 
+you are great oh lord'''
+
 
 class ScaleZip(ZipProcessor):
 
